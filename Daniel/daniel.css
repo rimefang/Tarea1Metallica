@@ -1,0 +1,60 @@
+body{
+  font-family: 'Be Vietnam', sans-serif;
+  font-size: 2em;
+  text-align: justify;
+  background-image: url("Destiny 2.png");
+  background-size: 100% 125%;
+}
+
+h1{
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  color:#E85D20;
+  background-size: auto;
+}
+
+p{
+  padding: 1em;
+  text-align: justify;
+  color: #CCC;
+}
+
+th{
+  color: white;
+  text-align: left;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+img {
+  height: 17em;
+  width: 17em;
+  margin-left: auto;
+  margin-right: 3em;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-top: 0em;
+  margin-bottom: 2em;
+  border-radius: 0.5em
+}
+
+.tb{
+  padding: 1em;
+  font-size: 0.8em;
+
+}
+
+.texto{
+  text-shadow: 1px  0px 0px black,
+               0px  1px 0px black,
+              -1px  0px 0px black,
+               0px -1px 0px black;
+}
+
+#tabla{
+  border-collapse: separate;
+  font-size: 0.75em;
+  margin-left: 2em;
+  margin-right: auto;
+  margin-top: -27em;
+}

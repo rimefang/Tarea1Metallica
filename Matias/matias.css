@@ -1,0 +1,127 @@
+body {
+  height: 100%;
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Courgette', cursive;
+  text-align: center;
+  background-color: #3ddbb7;
+  margin: 0;
+  padding: 1em;
+  font-size: 2em;
+  color: #224656 ;
+}
+
+h2 {
+  font-family: 'Courgette', cursive;
+  font-size: 1.8em;
+}
+
+#cuerpo {
+  font-family: 'Acme', sans-serif;
+  margin: 0;
+  padding-bottom: 2em;
+  background-image: url("background.jpg");
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
+}
+
+img {
+  width: 20%;
+  height: auto;
+  margin-top: 5em;
+  margin-bottom: -20em;
+  margin-right: 10em;
+  float: right;
+  border-radius: 2em;
+}
+
+#intro {
+  clear: right;
+  margin-left: 5em;
+  margin-bottom: 8em;
+  margin-right: 30em;
+  padding: 2.5em;
+  background-color: rgba(0, 0, 0, 0.2);
+  color: white;
+  font-size: 1.4em;
+  border-radius: 2em;
+}
+
+#videojuegos {
+  margin-left: 5em;
+  margin-right: 5em;
+  padding: 2.5em;
+  color: white;
+  border-radius: 2em;
+  background-color: rgba(0, 0, 255, 0.2);
+  font-size: 1.2em;
+}
+
+#musica {
+  margin-left: 5em;
+  margin-right: 5em;
+  margin-top: 5em;
+  padding: 2.5em;
+  color: white;
+  border-radius: 2em;
+  background-color: rgba(255, 0, 0, 0.2);
+  font-size: 1.2em;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table, th, td {
+  padding: 1em 3em 1em 3em;
+  text-align: center;
+}
+
+.metal {
+  background-color: rgba(0, 0, 0, 0.4);
+  border: 0.2em solid red;
+}
+
+th.metal {
+  color: red;
+  font-size: 1.5em;
+}
+
+.rock {
+  background-color: rgba(0, 0, 200, 0.4);
+  border: 0.2em solid orange;
+}
+
+th.rock {
+  color: orange;
+  font-size: 1.5em;
+}
+
+.indie {
+  background-color: rgba(0,128,128, 0.4);
+  border: 0.2em solid teal;
+}
+
+th.indie {
+  color: teal;
+  font-size: 1.5em;
+}
+
+#programacion {
+  margin-left: 5em;
+  margin-right: 5em;
+  margin-top: 5em;
+  padding: 2.5em;
+  color: white;
+  border-radius: 2em;
+  background-color: rgba(0, 255, 0, 0.2);
+  font-size: 1.2em;
+}
+
+#programacion li {
+  font-size: 1.5em;
+}
